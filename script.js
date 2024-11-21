@@ -14,7 +14,7 @@ const songs = [
   {
     title: "Ram Siya Ram",
     artist: "Artist 1",
-    src: "audio/_Ram Siya Ram_.mp3",
+    src: "audio/RamSiyaRam.mp3",
   },
   { title: "Aaj-Mausam", artist: "Artist 2", src: "audio/Aaj-Mausam.mp3" },
   {
